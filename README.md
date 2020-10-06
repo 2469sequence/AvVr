@@ -1,6 +1,6 @@
 # AvVr
 
-Here is our version control repository.
+Here is our version control repository. This (main branch) has "Windridge City" setup as a standalone scene
 The gitgnore file needs to be placed at the root of your Unity project folder to exclude meta data from pushes to the repo.
 1) Figure out how to setup GitHub Desktop app to use for pushing/ pulling versions
 2) go to VS installer>modify
